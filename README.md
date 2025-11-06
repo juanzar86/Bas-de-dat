@@ -1,35 +1,45 @@
-# 🧠 Bas-de-dat — Ecosistema BAS-NEO
+# 🩺 Ecosistema BAS-NEO
 
-Repositorio público para la documentación técnica y pedagógica del ecosistema **BAS-NEO**, fundamentado en los modelos de *Callista Roy* y *Patricia Benner*. Este espacio promueve la consulta abierta, la colaboración educativa y la visualización estructurada de flujos clínicos y formativos.
+## Título del proyecto  
+**Nivel de conocimiento sobre la prevención de la neumonía asociada a la ventilación mecánica en pacientes neonatales**
 
-## 🌐 Enlace institucional  
-[consultadatos.org](https://www.consultadatos.org/)
+## Fase actual  
+**Fundamentación teórica y estructural del ecosistema BAS-NEO**  
+Esta etapa documenta todo lo relacionado al neonato como base conceptual y clínica para abordar la prevención de NAVM. Se organiza en módulos consultables, integrando modelos teóricos, credenciales académicas y estructura colaborativa.
 
-## 🎓 Credenciales académicas  
-- Juan Zavaleta — Maestría en Enfermería, Universidad Veracruzana  
-- Mentoría: Dra. Sabina Galindo
+## Autoría académica  
+- **Juan Zavaleta**  
+  Maestría en Enfermería, Universidad Veracruzana  
+  Mentoría: Dra. Sabina Galindo
 
-## 📚 Fundamento teórico
+## Jueces académicos  
+- Dra. Gómez — Médico Neonatóloga  
+- Dra. Lara — Médico Pediatra  
+- E.P.P. Jiménez  
+- E.P.P. Zuñiga  
+- E.E.S. Hernández
 
-- **Modelo de Adaptación de Callista Roy**  
-  Considera al paciente como un sistema adaptativo que responde a estímulos internos y externos. La enfermería facilita la adaptación en cuatro modos: fisiológico, autoconcepto, función del rol e interdependencia.
+## Fundamento teórico  
+- **Callista Roy** — Modelo de Adaptación  
+- **Patricia Benner** — Modelo de desarrollo profesional (de principiante a experto)
 
-- **Modelo de desarrollo profesional de Patricia Benner**  
-  Propone que el conocimiento clínico se desarrolla progresivamente a través de la experiencia. Destaca el juicio práctico, la intuición y el contexto en el crecimiento profesional, desde principiante hasta experto.
+## Eslogan del ecosistema  
+**“Adaptar, aprender, compartir: el cuidado como ecosistema.”**
 
-## 📁 Estructura del repositorio
+## Misión  
+Consolidar un ecosistema educativo abierto que articule teoría y práctica en enfermería, promoviendo la adaptación, el desarrollo profesional y la colaboración interdisciplinaria.
 
+## Visión  
+Ser un referente en documentación pedagógica clínica, accesible y colaborativa, que impulse la transformación educativa en salud desde modelos teóricos sólidos.
 
-## 📌 Propósito
+## Objetivos de esta fase  
+- Documentar el conocimiento integral del neonato  
+- Establecer la base teórica para la prevención de NAVM  
+- Integrar credenciales académicas y jueces clínicos  
+- Estructurar el ecosistema BAS-NEO como recurso consultable
 
-Este repositorio forma parte del ecosistema BAS-NEO, diseñado para:
+## Metas inmediatas  
+- Consolidar los módulos iniciales (`flujo-subida.md`, `equivalencias-movil.md`, `credenciales-academicas.md`)  
+- Presentar esta fase para validación académica  
+- Avanzar hacia la documentación específica sobre NAVM
 
-- Documentar flujos técnicos y pedagógicos
-- Facilitar la consulta pública y colaborativa
-- Integrar credenciales académicas con claridad institucional
-- Promover la equivalencia móvil-escritorio en recursos educativos
-- Articular teoría y práctica desde modelos reconocidos en enfermería
-
-## 🤝 Colaboración abierta
-
-Se invita a docentes, estudiantes y desarrolladores a contribuir con correcciones, sugerencias y documentación complementaria. Toda participación será reconocida en futuras versiones.
